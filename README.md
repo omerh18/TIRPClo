@@ -17,7 +17,7 @@ The contents of this repository are as follows:
 2. Various real-world time intervals datasets on which the algorithm can be run.
 
 ## Datasets
-1.	***Location***: All the datasets are available under the *TIRPClo/bin/Debug/netcoreapp2.1/Datasets/* directory 
+1.	***Location***: All the datasets are available under the *TIRPClo/TIRPClo/bin/Debug/netcoreapp2.1/Datasets/* directory 
 2.	***Contents***: 
     1. ASL (Papapetrou et al. 2009)
     2. Two versions of the diabetes dataset (Moskovitch and Shahar 2015) 
