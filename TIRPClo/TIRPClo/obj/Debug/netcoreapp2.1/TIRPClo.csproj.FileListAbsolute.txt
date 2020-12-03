@@ -1,0 +1,11 @@
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.deps.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.runtimeconfig.dev.json
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.dll
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\bin\Debug\netcoreapp2.1\TIRPClo.pdb
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csprojAssemblyReference.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.csproj.CoreCompileInputs.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfoInputs.cache
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.AssemblyInfo.cs
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.dll
+D:\AAAI Submission\TIRPCloPaperEvaluation_Code_and_Datasets\TIRPClo\TIRPClo\obj\Debug\netcoreapp2.1\TIRPClo.pdb
